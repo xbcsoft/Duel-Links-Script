@@ -1,6 +1,6 @@
 # 游戏王决斗链接脚本 Yu-Gi-Oh! Duel Links Script
 
-![](blob\2.jpg)
+![](blob/2.jpg)
 
 ## 【支持国服,国际服(仅电脑端挂模拟器)】 
 
@@ -12,7 +12,7 @@
 
 ------
 
-![QQ浏览器截屏未命名](blob\ys.jpg)
+![ys](blob/ys.jpg)
 
 
 
@@ -20,5 +20,5 @@
 
 我的决斗链接萌新分享交流：543633077 
 
-![](blob\QQqun.png)
+![](blob/QQqun.png)
 
